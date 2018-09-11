@@ -16,13 +16,13 @@
 
 
 ## 요약
-논문의 목적은, human rationales를 high-quality machine attention (R2A)로 매핑하는 법을 배운 모델을 활용하여 Classification 성능을 향상시키는 것이다.
+논문의 목적은, human rationales를 high-quality machine attention (R2A)로 매핑하는 법을 배운 모델을 활용하여 Classification 성능을 향상시키는 것 입니다.
 
 <p align="center">
 <img src="figure/rationales.png" alt="drawing" width="500"/>
 </p>
 
-아래 그림은 논문에서 제안하는 전체적인 Pipeline이다.
+아래 그림은 논문에서 제안하는 전체적인 Pipeline입니다.
 
 <p align="center">
 <img src="figure/pipeline.png" alt="drawing" width="500"/>
