@@ -38,6 +38,11 @@
 
 ## 실험
 ### Training R2A
+메모리 이슈 때문에 논문에서 사용한 pretrained word embedding인 "fasttext.en.300d" 대신에 "fasttext.simple.300d"를 사용했습니다.
+<p align="center">
+<img src="figure/r2a_training.png" alt="drawing" width="500"/>
+</p>
+Training 과정...
 
 ### Testing R2A
 
